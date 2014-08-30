@@ -1,0 +1,3 @@
+﻿Module GlobalFunc
+
+End Module
